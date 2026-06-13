@@ -7,7 +7,7 @@ apt update && apt upgrade -y
 
 git clone  https://github.com/abc12345835/Bin_resucitate.sh
 
-cd Bin_Resucitate
+cd Sdominio
 
 chmod 777 Bin_Resucitate.sh
 
