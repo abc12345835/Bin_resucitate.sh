@@ -5,7 +5,7 @@ script extrapolador de bins, revive y saca lives con el metodo de sofia
 
 apt update && apt upgrade -y
 
-git clone  https://github.com/AngelV1p/Bin_Resucitate.git
+git clone  https://github.com/abc12345835/Bin_resucitate.sh
 
 cd Bin_Resucitate
 
